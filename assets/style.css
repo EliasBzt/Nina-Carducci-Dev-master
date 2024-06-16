@@ -104,6 +104,7 @@ body {
     font-size: 30px;
 }
 .about-me__introduction {
+    font-size: 1rem;
     font-weight: 800;
     width: 60%;
 }
@@ -166,7 +167,6 @@ form textarea {
     padding-block: 3em;
 }
 .quote__text {
-    font-weight: 300;
     font-size: 2rem;
 }
 .quote__author {
